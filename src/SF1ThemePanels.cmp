@@ -1,0 +1,14 @@
+<aura:component>
+    <section class="section">
+        <h2 class="section-head" id="panels">Panels</h2>
+        <div class="panel">
+            <header class="panel-heading">
+                <h2 class="panel-title">Panel Heading</h2>
+            </header>
+            <div class="panel-body">
+                <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
+            </div>
+            <div class="panel-footer">This is a footer</div>
+        </div>
+    </section>
+</aura:component>

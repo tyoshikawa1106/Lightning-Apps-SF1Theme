@@ -1,0 +1,47 @@
+<aura:component>
+    <section class="section" id="navbars">
+        <h2 class="section-head">Navbars</h2>
+        <div class="navbar navbar-default">
+            <div class="navbar-header">
+                <a href="#" class="navbar-brand">Your Company</a>
+            </div>
+            <div class="navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active">
+                        <a href="#">Home</a>
+                    </li>
+                    <li>
+                        <a href="#">About</a>
+                    </li>
+                    <li>
+                        <a href="#">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="navbar navbar-inverse">
+            <div class="navbar-header">
+                <a href="#" class="navbar-brand">Your Company</a>
+            </div>
+            <div class="navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active">
+                        <a href="#">Home</a>
+                    </li>
+                    <li>
+                        <a href="#">About</a>
+                    </li>
+                    <li>
+                        <a href="#">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="navbar navbar-default">
+            <div class="collapse navbar-collapse">
+                <a class="btn btn-primary navbar-btn">Navbar Button</a>
+                <p class="navbar-text navbar-right">Navbar Text</p>
+            </div>
+        </div>
+    </section>
+</aura:component>

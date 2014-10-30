@@ -1,0 +1,27 @@
+<aura:component>
+    <section class="section" id="input-groups">
+        <h2 class="section-head">Input Groups</h2>
+        <div class="input-group">
+            <span class="input-group-btn">
+                <button class="btn btn-default" type="button">Go!</button>
+            </span>
+            <input type="text" class="form-control" placeholder="Username" />
+        </div>
+        <br />
+        <div class="input-group">
+            <input type="text" class="form-control input-lg" placeholder="a large input" />
+            <span class="input-group-addon input-large">.00</span>
+        </div>
+        <br />
+        <div class="input-group">
+            <input type="text" class="form-control input-sm" placeholder="a small input" />
+            <span class="input-group-addon input-large">.00</span>
+        </div>
+        <br />
+        <div class="input-group">
+            <span class="input-group-addon">$</span>
+            <input type="text" class="form-control" />
+            <span class="input-group-addon">.00</span>
+        </div>
+    </section>
+</aura:component>

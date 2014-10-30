@@ -1,0 +1,53 @@
+<aura:component>
+    <section class="section" id="pagination">
+        <h2 class="section-head">Pagination</h2>
+        <ul class="pagination" style="margin-right: 10px;">
+            <li>
+                <a href="#">Prev</a>
+            </li>
+            <li>
+                <a href="#">1</a>
+            </li>
+            <li>
+                <a href="#">2</a>
+            </li>
+            <li>
+                <a href="#">3</a>
+            </li>
+            <li>
+                <a href="#">4</a>
+            </li>
+            <li>
+                <a href="#">Next</a>
+            </li>
+        </ul>
+        <ul class="pagination pagination-lg">
+            <li>
+                <a href="#">Prev</a>
+            </li>
+            <li>
+                <a href="#">1</a>
+            </li>
+            <li>
+                <a href="#">2</a>
+            </li>
+            <li>
+                <a href="#">3</a>
+            </li>
+            <li>
+                <a href="#">4</a>
+            </li>
+            <li>
+                <a href="#">Next</a>
+            </li>
+        </ul>
+        <ul class="pager">
+            <li>
+                <a href="#">Prev</a>
+            </li>
+            <li>
+                <a href="#">Next</a>
+            </li>
+        </ul>
+    </section>
+</aura:component>

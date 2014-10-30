@@ -1,0 +1,10 @@
+<aura:component>
+    <section class="section" id="images">
+        <h2 class="section-head">Images</h2>
+        <p>
+            <img src="http://placehold.it/100x100" class="img-rounded" />
+            <img src="http://placehold.it/100x100" class="img-circle" />
+            <img src="http://placehold.it/100x100" class="img-thumbnail" />
+        </p>
+    </section>
+</aura:component>
